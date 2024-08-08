@@ -1,3 +1,5 @@
+Yhis is a Data Finance React App Challenge I have set for myself. In this project, I implemented Axios to call APIs, TailwindCSS styling, typewriter.js for animating text, React-Moment inspired from the Momentum Chrome Extension
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
