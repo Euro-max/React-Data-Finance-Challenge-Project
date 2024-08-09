@@ -1,4 +1,4 @@
-This is a Data Finance React App Challenge I have set for myself. In this project, I implemented Axios to call APIs,useState for the navbar on mobile devices, useEffect to optimise API call to be one call per page render, TailwindCSS styling, typewriter.js for animating text, React-Moment inspired from the Momentum Chrome Extension
+This is a Data Finance React App Challenge I have set for myself. In this project, I implemented Axios to call APIs,useState for the navbar on mobile devices, useEffect to optimise API call to be one call per page render, TailwindCSS styling,GetWaves for trendy waves below each section as a section divider, typewriter.js for animating text, React-Moment inspired from the Momentum Chrome Extension
 
 # Getting Started with Create React App
 
