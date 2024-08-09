@@ -120,6 +120,7 @@ function Hero(){
     }
   }
   return (
+    <div className='curved'>
     <div className='grid grid-cols-1 gap-y-[20px]   mt-[200px] md:grid-cols-2 ah '>
     <div className='text-white ml-20 '>
       <div className='max-w-[800px] mt-[-96px] w-6/6 h-screen mx-auto  justify-center'>
@@ -158,6 +159,10 @@ function Hero(){
       <img src={Laptop} alt='me' className='rounded-md w-[400px] h-[538px] sm:w-full '></img>
     </div>
     </div>
+   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style={{width:'100%'}}>
+  <path fill="#ffffff" fill-opacity="1" d="M0,96L30,90.7C60,85,120,75,180,101.3C240,128,300,192,360,197.3C420,203,480,149,540,138.7C600,128,660,160,720,170.7C780,181,840,171,900,138.7C960,107,1020,53,1080,42.7C1140,32,1200,64,1260,74.7C1320,85,1380,75,1410,69.3L1440,64L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path>
+</svg>
+   </div>
   );
 };
 const Analytics = () => {
