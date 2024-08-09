@@ -45,3 +45,6 @@
     flex-direction:column-reverse;
   }
 }
+.curved svg{
+  display:block;
+}
